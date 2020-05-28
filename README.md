@@ -6,3 +6,5 @@ available in the production environment of the portal and that decision making a
 work is ongoing.
 
 (placeholder repository for the time being)
+
+Note: More comprehensive information and documentation on some initial test cases of using EAD3 can be found in the Archives Portal Europe Wiki (http://wiki.archivesportaleurope.net/index.php/EAD3).
